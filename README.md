@@ -1,0 +1,2 @@
+# ShutdownManager
+Windows標準の機能を使用したタイマー機能付きシャットダウンマネージャー
